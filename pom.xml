@@ -22,8 +22,13 @@
 			<artifactId>javax.persistence-api</artifactId>
 			<version>2.2</version>
 		</dependency>
-
 	</dependencies>
+	<repositories>
+		<repository>
+			<id>github</id>
+			<url>https://maven.pkg.github.com/davyd0309/HH-Home-Helper-Models</url>
+		</repository>
+	</repositories>
 	<build>
 		<pluginManagement>
 			<plugins>
