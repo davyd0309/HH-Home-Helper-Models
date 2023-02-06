@@ -24,12 +24,10 @@
 		</dependency>
 	</dependencies>
 	<distributionManagement>
-		<repositories>
 			<repository>
 				<id>github</id>
 				<url>https://maven.pkg.github.com/davyd0309/HH-Home-Helper-Models</url>
 			</repository>
-		</repositories>
 	</distributionManagement>	
 	<build>
 		<pluginManagement>
