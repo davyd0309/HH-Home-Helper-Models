@@ -24,11 +24,12 @@
 		</dependency>
 	</dependencies>
 	<distributionManagement>
-			<repository>
-				<id>github</id>
-				<url>https://maven.pkg.github.com/davyd0309/HH-Home-Helper-Models</url>
-			</repository>
-	</distributionManagement>	
+		<repository>
+			<id>davyd</id>
+			<name>hh-home-helper-models-releases</name>
+			<url>https://davyd0309.jfrog.io/artifactory/default-libs-release</url>
+		</repository>
+	</distributionManagement>
 	<build>
 		<pluginManagement>
 			<plugins>
