@@ -25,9 +25,9 @@
 	</dependencies>
 	<distributionManagement>
 		<repository>
-			<id>davyd</id>
+			<id>central</id>
 			<name>hh-home-helper-models-releases</name>
-			<url>https://davyd0309.jfrog.io/artifactory/default-libs-release</url>
+			<url>https://davyd0309.jfrog.io/artifactory/default-libs-release-local</url>
 		</repository>
 	</distributionManagement>
 	<build>
